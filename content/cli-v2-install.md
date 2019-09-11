@@ -91,7 +91,7 @@ sudo apt-get install -y build-essential zlibc zlib1g-dev ruby ruby-dev openssl l
 If you are running on CentOS, ensure the following packages are installed on your system:
 
 ```shell
-sudo yum install gcc gcc-c++ ruby ruby-devel mysql-devel postgresql-devel postgresql-libs sqlite-devel libxslt-devel libxml2-devel patch openssl
+sudo yum install gcc gcc-c++ ruby ruby-devel mysql-devel postgresql-devel postgresql-libs sqlite-devel libxslt-devel libxml2-devel patch openssl nc connect-proxy
 gem install yajl-ruby
 ```
 
